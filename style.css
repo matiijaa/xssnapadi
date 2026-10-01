@@ -1,0 +1,59 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #1e5544;
+}
+
+.navbar {
+    background-color: #2f2f2f !important;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link,
+.navbar .nav-link.active{
+    color: #ffffff !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+    color: #1e5544 !important;
+}
+
+#onama {
+    text-align: center;
+    margin-top: 50px;
+    color: #ffffff;
+}
+#tekstonama{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 50px;
+    color: #ffffff;
+}
+
+.col .card{
+    background-color: #2f2f2f;
+    color: #ffffff;
+}
+
+.mb-3 .form-label {
+    color: #ffffff;
+}
+
+.mb-3 .form-control #email {
+    color: #ffffff;
+}
+
+.d-grid .btn{
+    background-color: #2f2f2f;
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+
+.col-md-8 .text-center{
+    color: #ffffff;
+}
